@@ -1,7 +1,68 @@
+# Core Libraries
 streamlit
 pandas
 numpy
-matplotlib 
-scikit-learn 
+matplotlib
 seaborn
+scikit-learn
 
+# Machine Learning & Classification
+tensorflow
+keras
+opencv-contrib-python
+opencv-python
+joblib  # For model saving
+pickle-mixin  # For using pickle to save models
+
+# Scikit-Learn Models & Metrics
+scipy
+missingno
+datashape
+pyarrow
+et-xmlfile
+pyttsx3
+pillow  # For image processing
+
+# Scikit-Learn Specific Dependencies
+sklearn
+xgboost  # If used for boosting
+lightgbm  # If used for boosting
+catboost  # If used for boosting
+random-forest-classifier
+
+# Database & CSV Processing
+mysqlclient  # MySQL support (you are using this)
+openpyxl
+csv
+re
+
+# Google & OAuth
+google-auth
+google-auth-oauthlib
+requests-oauthlib
+oauthlib
+rsa
+
+# Python & System Utilities
+absl-py
+appdirs
+astunparse
+atomicwrites
+cachetools
+fonttools
+jsonpointer
+libclang
+protobuf
+termcolor
+webencodings
+
+# Intel Optimizations (Optional)
+scikit-learn-intelex
+ml-dtypes
+mkl-service
+
+# Optional / Advanced Libraries
+pyqt5
+pyqtwebengine
+sounddevice
+tbb
